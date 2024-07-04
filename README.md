@@ -28,7 +28,7 @@ python manage.py loaddata fixtures/groups.json
 Для запуска проекта необходимо сделать.
 1. git clone репозитория
 ```
-git@github.com:Meatdam/online_traning_LMS_system.git
+git@github.com:Meatdam/Password_Company_API.git
 ```
 2. Установить виртуальное окружение `venv`
 ```
